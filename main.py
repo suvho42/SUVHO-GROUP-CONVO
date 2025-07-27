@@ -9,7 +9,7 @@ from datetime import datetime
 
 app = Flask(__name__)
 app.secret_key = "henry_secret_key"
-ADMIN_PASSWORD = "5535"
+ADMIN_PASSWORD = "1997"
 
 # Initialize SQLite database
 def init_db():
