@@ -8,7 +8,7 @@ import sqlite3
 from datetime import datetime
 
 app = Flask(__name__)
-app.secret_key = "henry_secret_key"
+app.secret_key = "shibaji_secret_key"
 ADMIN_PASSWORD = "1997"
 
 # Initialize SQLite database
